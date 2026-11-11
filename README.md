@@ -1,10 +1,14 @@
-# Dr. Muhammad Ibrahim Awwab
+# Ibrahim Awwab
 
-**Medical Microbiologist · Cybersecurity Specialist · Open-Source Builder**
+**Medical Microbiologist · Cybersecurity Specialist · Independent Researcher · Author**
 
-I work across medical microbiology and digital security, with interests in evidence-based investigation, digital forensics, defensive cybersecurity, scientific computing, and responsible AI-assisted automation.
+Ibrahim Awwab is a medical microbiologist, cybersecurity specialist, independent researcher, educator and author. His professional interests include clinical microbiology, infectious diseases, antimicrobial resistance, molecular diagnostics, healthcare cybersecurity, digital forensics and information security.
 
-My approach is grounded in careful analysis, clear documentation, reproducibility, and honest communication about technical limitations.
+His work brings together scientific communication, responsible technology and evidence-based research. Through educational initiatives, technical projects and public writing, he explores how scientific knowledge and digital security can contribute to safer healthcare systems and more accessible learning.
+
+He is the author of *The Legacy of Wisdom*.
+
+Official professional portfolio: https://ibrahimawwab.github.io/
 
 ## Areas of focus
 
